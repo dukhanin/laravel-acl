@@ -1,0 +1,31 @@
+/storage
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# Environment deps.
+/.env
+/.env.local
+/composer.lock
+/*ide*helper*.*
+/*phpstorm*meta*.*
+
+# IDEs
+/nbproject
+/.idea
+
+
+# Vendors
+/vendor
+
+# Temp dirs & trash
+/temp
+/tmp
+.DS_Store
+.php_cs.cache
+
+# etc.
+/.vagrant
+npm-debug.log
+/log
